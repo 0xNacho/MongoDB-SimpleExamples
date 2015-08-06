@@ -1,4 +1,4 @@
-package com.treelogic.eba.mongodb;
+package com.treelogic.mongodb;
 
 import java.util.Arrays;
 import java.util.Date;
@@ -8,9 +8,9 @@ import net.vz.mongodb.jackson.WriteResult;
 
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
-import com.treelogic.eba.model.Address;
-import com.treelogic.eba.model.Person;
-import com.treelogic.eba.utils.MongoUtils;
+import com.treelogic.mongodb.model.Address;
+import com.treelogic.mongodb.model.Person;
+import com.treelogic.mongodb.utils.MongoUtils;
 
 public class InsertJavaClass {	
 	public static void main (String [] args){

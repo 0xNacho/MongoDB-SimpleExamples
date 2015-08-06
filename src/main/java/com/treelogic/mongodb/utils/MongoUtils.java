@@ -1,4 +1,4 @@
-package com.treelogic.eba.utils;
+package com.treelogic.mongodb.utils;
 
 import java.net.UnknownHostException;
 

@@ -1,4 +1,4 @@
-package com.treelogic.eba.model;
+package com.treelogic.mongodb.model;
 
 import java.util.ArrayList;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package com.treelogic.eba.model;
+package com.treelogic.mongodb.model;
 
 public class Address {
 
